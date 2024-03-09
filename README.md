@@ -2,4 +2,4 @@
  primeiro repositorio github Guanabara
 
 Repositorio criado para o curso de github Guanabara.
-Essa linha eu adicionei diretamente do hub.
+Essa linha eu adicionei remotamente para o github.
