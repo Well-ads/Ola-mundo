@@ -1,2 +1,4 @@
-# Ola mundo
- primeiro repositorio github
+# Olá, mundo!
+ primeiro repositorio github Guanabara
+
+Repositorio criado para o curso de github Guanabara
